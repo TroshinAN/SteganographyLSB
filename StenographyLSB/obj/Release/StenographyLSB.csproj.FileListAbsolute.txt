@@ -1,0 +1,8 @@
+D:\Programming\Projects\VS_2019\StenographyLSB\StenographyLSB\bin\Release\StenographyLSB.exe.config
+D:\Programming\Projects\VS_2019\StenographyLSB\StenographyLSB\bin\Release\StenographyLSB.exe
+D:\Programming\Projects\VS_2019\StenographyLSB\StenographyLSB\bin\Release\StenographyLSB.pdb
+D:\Programming\Projects\VS_2019\StenographyLSB\StenographyLSB\obj\Release\StenographyLSB.MainForm.resources
+D:\Programming\Projects\VS_2019\StenographyLSB\StenographyLSB\obj\Release\StenographyLSB.Properties.Resources.resources
+D:\Programming\Projects\VS_2019\StenographyLSB\StenographyLSB\obj\Release\StenographyLSB.csproj.GenerateResource.cache
+D:\Programming\Projects\VS_2019\StenographyLSB\StenographyLSB\obj\Release\StenographyLSB.exe
+D:\Programming\Projects\VS_2019\StenographyLSB\StenographyLSB\obj\Release\StenographyLSB.pdb

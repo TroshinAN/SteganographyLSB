@@ -1,0 +1,9 @@
+D:\Programming\Projects\VS_2019\StenographyLSB\StenographyLSB\bin\Debug\StenographyLSB.exe.config
+D:\Programming\Projects\VS_2019\StenographyLSB\StenographyLSB\bin\Debug\StenographyLSB.exe
+D:\Programming\Projects\VS_2019\StenographyLSB\StenographyLSB\bin\Debug\StenographyLSB.pdb
+D:\Programming\Projects\VS_2019\StenographyLSB\StenographyLSB\obj\Debug\StenographyLSB.MainForm.resources
+D:\Programming\Projects\VS_2019\StenographyLSB\StenographyLSB\obj\Debug\StenographyLSB.Properties.Resources.resources
+D:\Programming\Projects\VS_2019\StenographyLSB\StenographyLSB\obj\Debug\StenographyLSB.csproj.GenerateResource.cache
+D:\Programming\Projects\VS_2019\StenographyLSB\StenographyLSB\obj\Debug\StenographyLSB.exe
+D:\Programming\Projects\VS_2019\StenographyLSB\StenographyLSB\obj\Debug\StenographyLSB.pdb
+D:\Programming\Projects\VS_2019\StenographyLSB\StenographyLSB\obj\Debug\StenographyLSB.csprojAssemblyReference.cache
